@@ -32,55 +32,38 @@ Design patterns are used in software development for a variety of reasons, inclu
 
 ### 1. Creational
 
-#### Abstract Factory
-
-#### Factory Method
-
-#### Prototype
-
-#### Builder
-
-#### Singleton
-
-
+|  | Link |
+|:--|:-:|
+| Abstract Factory | |
+| Builder | |
+| Factory Method |                              |
+| Prototype      |                              |
+| Singleton      | [Read](Creational/Singleton) |
 
 ### 2. Structural
 
-#### Adapter
-
-#### Bridge
-
-#### Decorator
-
-#### Composite
-
-#### Facade
-
-#### Flyweight
-
-#### Proxy
-
-
+|           | Link |
+| --------- | :--: |
+| Adapter   |      |
+| Bridge    |      |
+| Composite |      |
+| Decorator |      |
+| Facade    |      |
+| Flyweight |      |
+| Proxy     |      |
 
 ### 3. Behavioral
 
-#### Chain of Responsibility
-
-#### Command
-
-#### Iterator
-
-#### Mediator
-
-#### Strategy
-
-#### State
-
-#### Observer
-
-#### Memento
-
-#### Template Method
-
-#### Visitor
+|                         | Link |
+| ----------------------- | :--: |
+| Chain of Responsibility |      |
+| Command                 |      |
+| Iterator                |      |
+| Mediator                |      |
+| Memento                 |      |
+| Observer                |      |
+| State                   |      |
+| Strategy                |      |
+| Template Method         |      |
+| Visitor                 |      |
 
