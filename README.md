@@ -38,7 +38,7 @@ Design patterns are used in software development for a variety of reasons, inclu
 | Builder | |
 | Factory Method |                              |
 | Prototype      |                              |
-| Singleton      | [Read](Creational/Singleton) |
+| Singleton      | [Read](/Creational/Singleton) |
 
 ### 2. Structural
 
