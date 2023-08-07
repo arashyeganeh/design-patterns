@@ -1,6 +1,6 @@
 ![Design-Patterns](img/header.jpg)
 
-# Design Patterns
+# Design Patterns | Python | Javascript
 
 Design patterns are reusable solutions to common problems that arise in software design. They provide a way to approach software development that emphasizes best practices, proven solutions, and modularity. Design patterns help developers create code that is more consistent, easier to understand, and easier to maintain over time. They are not specific to any particular programming language or technology and can be applied in a variety of contexts. Using design patterns can improve the quality, reliability, and maintainability of software, but they should be used judiciously to avoid unnecessary complexity.
 
@@ -37,7 +37,7 @@ Design patterns are used in software development for a variety of reasons, inclu
 | Abstract Factory | |
 | Builder | |
 | Factory Method |                              |
-| Prototype      |                              |
+| Prototype      | [Read](/Creational/Prototype) |
 | Singleton      | [Read](/Creational/Singleton) |
 
 ### 2. Structural
